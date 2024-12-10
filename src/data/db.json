@@ -1,0 +1,74 @@
+{
+  "associate": [
+    {
+      "id": "1",
+      "name": "Teyeb",
+      "email": "ramesh@in.com",
+      "phone": "899089898",
+      "associategroup": "level1",
+      "address": "No 2\nRamraj street, chennai\nIndai",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "2",
+      "name": "Ali",
+      "email": "akbar@in.com",
+      "phone": "899089898",
+      "associategroup": "level2",
+      "address": "No 2\nRamraj street, Delhi\nIndai",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "0",
+      "name": "med",
+      "email": "med@gmail.com",
+      "phone": "21212121",
+      "associategroup": "level2",
+      "address": "Arafat/NKTT",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "0",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "phone": "12121212",
+      "associategroup": "level3",
+      "address": "tin/touj",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "0",
+      "name": "Bemba",
+      "email": "bemba@gmail.com",
+      "phone": "21212121",
+      "associategroup": "level3",
+      "address": "Aioun/TZZ",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": 0,
+      "name": "Dah",
+      "email": "dah@gmail.com",
+      "phone": "22222222",
+      "associategroup": "level2",
+      "address": "Tin/Jedida",
+      "type": "CUSTOMER",
+      "status": false
+    },
+    {
+      "id": 0,
+      "name": "Mariem",
+      "email": "mariem@gmail.com",
+      "phone": "33333333",
+      "associategroup": "level1",
+      "address": "NDB/JDD",
+      "type": "SUPPLIER",
+      "status": true
+    }
+  ]
+}
